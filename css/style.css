@@ -513,8 +513,6 @@ a {
   border: 1px solid var(--accent-color);
 }
 
-.regular-customers-list:hover .customers-list-border,
-.regular-customers-list:focus .customers-list-border,
 .customers-list-border:focus .customers-icon,
 .customers-list-border:hover .customers-icon {
   fill: #2196f3;
